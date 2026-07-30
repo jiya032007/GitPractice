@@ -28,3 +28,6 @@ button:hover{
     transform:  scale(1.2) rotate(10deg);
     cursor: grab;
 }
+p{
+    font-style: italic;
+}

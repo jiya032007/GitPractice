@@ -1,3 +1,3 @@
 function sayHi(){
-    alert("hello jiya!")
+    document.getElementById("myButton").innerText = "clicked!"
 }
